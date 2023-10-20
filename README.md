@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @klokidis
-- 👀 I’m interested in backend end
-- 🌱 I’m currently learning spring boot,java and git
+- 👀 I’m interested in android development
+- 🌱 I’m currently learning kotlin,java,git and android studio
 
 <!---
 klokidis/klokidis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
