@@ -4,12 +4,6 @@
 - 🔭 Currently learning **Jetpack Compose** and working on **some new apps**
 - 📫 Reach me at: **dimitrisklokidis@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://instagram.com/dimitrisklok" target="_blank">
-    <img align="center" src="https://user-images.githubusercontent.com/36131492/158049056-56e3a853-a309-4bc5-a85a-a03fa8e51ce8.png" alt="dimitrisklok" height="40" width="40" />
-  </a>
-</p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
    <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
