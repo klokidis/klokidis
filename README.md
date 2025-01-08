@@ -2,7 +2,7 @@
 <h3 align="center">CS Student with a Passion for Android Development</h3>
 
 - 🔭 Currently learning **Jetpack Compose** and working on **some new apps**
-- 📫 Reach me at: **dimitrisklokidis@gmail.com**
+- 📫 Reach me at: **yukurostudio@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
