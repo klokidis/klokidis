@@ -1,7 +1,7 @@
 <h1 align="center">Hello! 👋 I'm Dimitris Klokidis</h1>
 <h3 align="center">CS Student with a Passion for Android Development</h3>
 
-- 🔭 Currently learning **Jetpack Compose** and working on **some new apps**
+- 🔭 Working on **some new apps**
 - 📫 Reach me at: **yukurostudio@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
